@@ -1,0 +1,15 @@
+{
+  "name": "travelwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "travelwebsite.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
